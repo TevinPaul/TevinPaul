@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced cybersecurity practices and ethical hacking Next.js and scalable backend development Cloud platforms (AWS, Firebase, Supabase)**
 
-- 👨‍💻 All of my projects are available at [tevinongata.netlify.app](tevinongata.netlify.app)
+- 👨‍💻 All of my projects are available at [https://tevinongata.netlify.app](https://tevinongata.netlify.app)
 
 - 💬 Ask me about **Web development (React, Node.js, Next.js) Cybersecurity basics and lab setups Crypto trading & blockchain applications**
 
@@ -32,4 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tevinpaul&show_icons=true&locale=en" alt="tevinpaul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tevinpaul&" alt="tevinpaul" /></p>
+
 
