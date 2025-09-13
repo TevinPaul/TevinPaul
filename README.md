@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced cybersecurity practices and ethical hacking Next.js and scalable backend development Cloud platforms (AWS, Firebase, Supabase)**
 
-- 👨‍💻 All of my projects are available at [https://tevinongata.netlify.app](https://tevinongata.netlify.app)
+- 👨‍💻 All of my projects are available at [https://tevinongata.netlify.app](https://tevinongata.dev)
 
 - 💬 Ask me about **Web development (React, Node.js, Next.js) Cybersecurity basics and lab setups Crypto trading & blockchain applications**
 
